@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+body {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 5em;
+    font-family: 'Righteous';
+    color: #222;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+img:hover {
+    cursor: pointer;
+}
+
+p {
+    text-align: center;
+    font-size: 1.3em;
+    font-family: sans-serif;
+}
+
+.cats div {
+    display: inline-block;
+}

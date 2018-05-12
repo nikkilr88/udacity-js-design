@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+h1 {
+    text-align: center;
+    font-size: 5em;
+    font-family: 'Righteous';
+    color: #222;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+img:hover {
+    cursor: pointer;
+}
+
+p {
+    text-align: center;
+    font-size: 1.3em;
+    font-family: sans-serif;
+}
